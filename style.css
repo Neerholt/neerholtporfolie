@@ -5,11 +5,11 @@
 
 /*Body*/
 body{
-    background-color: wheat;
+     background-color: whitesmoke;
 }
 
 header ul{
-   margin-left: 4%;
+   margin-left: 8.4%;
 }
 
 header ul li{
@@ -18,6 +18,7 @@ header ul li{
 
 
 header ul li a{
+    display: block;
     padding-left: 30px;
     color: black;
     text-decoration: none;
@@ -31,9 +32,38 @@ header ul li a:hover{
 
 
 header nav{
-    background-color: #fff;
+    background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);
     width: 100%;
     height: 6%;
     position: fixed;
     top: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+/*Stylesheet for min container*/
+#container{
+    margin-top: 5%;
+    margin-bottom: 1%;
+    background:-webkit-linear-gradient(600deg, #D65076, #45B8AC, #EFC050, #9B2335);
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+#footer{
+    margin-bottom: 0.5%;
+    bottom: 0;
+    background-color:wheat;
+    width: 80%;
+    height: 10%;;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }

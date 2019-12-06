@@ -2,7 +2,7 @@
    <head>
       <link rel="stylesheet" type="text/css" href="style.css">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet"><!--Google stylesheet-->
+      <link href="https://fonts.googleapis.com/css?family=Bowlby+One+SC&display=swap" rel="stylesheet"><!--Google stylesheet-->
       <title>Neerholt.it</title>
    </head>
    <body>
@@ -88,31 +88,25 @@
   <p>Some text some text some text some text..</p>
   <p>Some text some text some text some text..</p>
   <p>Some text some text some text some text..</p>
- 
-   <p>Some text some text some text some text..</p>
   <p>Some text some text some text some text..</p>
   <p>Some text some text some text some text..</p>
   <p>Some text some text some text some text..</p>
   <p>Some text some text some text some text..</p>
   <p>Some text some text some text some text..</p>
   <p>Some text some text some text some text..</p>
- 
- 
- 
-  
+  <p>Some text some text some text some text..</p>
            </div>
-          
        </main>
        
        <footer>
-          <!-- <div id="footer">
+           <div id="footer">
                <table>
                    <tr><td><a href="url">Twitter</a></td></tr>
                     <tr><td><a href="url">Steam</a></td></tr>
                      <tr><td><a href="url">Facebook</a></td></tr>
                       <tr><td><a href="url">LinkedIn</a></td></tr>
                </table>
-           </div>-->
+           </div>
        </footer>
        
    </body>
