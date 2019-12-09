@@ -29,7 +29,7 @@
                              echo "<a href=\"artikel.php?id=". $row['idopret'] . "\">"; 
                              echo '<div id="trippel-containertest">';
                              echo "<h2><strong>".$row['overskrift']."</strong></h2>";
-                             echo "<img src='images/".$row['billede']."' height='40%' width='100%'>";
+                             echo "<img src='images/".$row['billede']."' height='45%' width='100%'>";
                              echo '<div id="trippel-container-kasse-texttest">';
                              echo ' <div id="trippel-container-kasse-text-gaptest">';
                              echo $row['brodtekst'];
