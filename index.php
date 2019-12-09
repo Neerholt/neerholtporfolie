@@ -24,7 +24,7 @@
   <p>Some text some text some text some text..</p>
            </div>
            
-           <a href="#">
+           <a href="contact.php">
               <div id="trippel-container">
                <h1>Contact</h1>
                   <div id="trippel-container-kasse-text">
@@ -36,7 +36,7 @@
            </a>
            
            
-            <a href="#">
+           <a href="projects.php">
               <div id="trippel-container">
                <h1>Projects</h1>
                   <div id="trippel-container-kasse-text">
@@ -59,7 +59,7 @@
               </div>
            </a>
            
-             <a href="#">
+           <a href="about.php">
               <div id="trippel-container">
                <h1>About</h1>
                   <div id="trippel-container-kasse-text">
