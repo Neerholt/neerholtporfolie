@@ -26,7 +26,7 @@
                      
                      if($data){
                          while ($row = mysqli_fetch_assoc($data)){
-                             echo '<a href=\"artikel.php?id=". $row["idopret"] . "\">';
+                             echo "<a href=\"artikel.php?id=". $row['idopret'] . "\">"; 
                              echo '<div id="trippel-containertest">';
                              echo "<h2><strong>".$row['overskrift']."</strong></h2>";
                              echo "<img src='images/".$row['billede']."' height='40%' width='100%'>";
