@@ -8,8 +8,7 @@
 /*Body*/
 body{
       /*background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);*/
-      background-color: red; 
-      background-image: linear-gradient(to right, whitesmoke , gray );
+      background-color: #E8E8E8;
 }
 
 header ul{
@@ -125,7 +124,7 @@ footer nav{
 
 
 #trippel-container:hover{
-    box-shadow: 0 6px 10px 0 rgb(220,20,60), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 6px 10px 0 #484848, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    
 }
 
