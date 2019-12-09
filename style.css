@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: 'Roboto', sans-serif;
 }
 
 /*Body*/
@@ -18,6 +19,7 @@ header ul li{
 }
 
 header ul li a{
+    font-family: 'Roboto', sans-serif;
     display: block;
     padding-left: 30px;
     color: black;
@@ -31,7 +33,7 @@ header ul li a:hover{
 
 
 header nav{
-    /*background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);*/
+    background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);
     width: 100%;
     height: 6%;
     position: fixed;
@@ -73,7 +75,7 @@ header nav{
 }
 
 footer ul{
-   
+   background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);
 }
 
 footer ul li{
@@ -92,24 +94,28 @@ footer ul li a:hover{
     color: #9B1B30;
 }
 
-
+/*
 footer nav{
     width: 100%;
     height: 6%;
     bottom: 0;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    background-color: whitesmoke;
+    background-color: black;
     border-radius: 5px;
 }
+*/
 
 #trippel-container{
+    color: black;
+    line-height: 50px;
+    text-align: center;
+    margin-right: -8%;
     margin-left: 10%;
     margin-bottom: 1%;
-    width: 20%;
+    width: 18.5%;
     height: 30%;
-    border-color: black;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    background-color: whitesmoke;
+    background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050);
     border-radius: 5px;
     float: left;
     
@@ -119,4 +125,29 @@ footer nav{
 #trippel-container:hover{
     box-shadow: 0 6px 10px 0 rgb(220,20,60), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    
+}
+
+
+#trippel-container-kasse-text{
+    width: auto;
+    height: 85%;
+    background-color: whitesmoke;
+    border-color: black;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+#trippel-container-kasse-text-gap{
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    line-height: 22px;
+    text-align: justify;
+    width: 90%;
+    height: 85%;
+    background-color: whitesmoke;
+    border-color: black;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius: 5px;
 }
