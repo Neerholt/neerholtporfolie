@@ -8,6 +8,8 @@
 /*Body*/
 body{
       /*background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);*/
+      background-color: red; 
+      background-image: linear-gradient(to right, whitesmoke , gray );
 }
 
 header ul{
