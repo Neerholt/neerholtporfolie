@@ -9,6 +9,7 @@
 body{
       /*background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);*/
       background-color: #E8E8E8;
+      height: auto;
 }
 
 header ul{
@@ -124,7 +125,7 @@ footer nav{
 
 
 #trippel-container:hover{
-    box-shadow: 0 6px 10px 0 #484848, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 6px 10px 0 #696969, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    
 }
 
@@ -140,13 +141,68 @@ footer nav{
 
 
 #trippel-container-kasse-text-gap{
+    font-size: 0.9vw;
     margin-left: auto;
     margin-right: auto;
     color: black;
     line-height: 22px;
     text-align: justify;
-    width: 90%;
+    width: 92%;
+    height: 70%;
+    background-color: whitesmoke;
+    border-color: black;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------------*/
+#trippel-containertest{
+    margin-top: 5%;
+    color: black;
+    line-height: 50px;
+    text-align: center;
+    margin-right: -8%;
+    margin-left: 10%;
+    margin-bottom: -2%;
+    width: 18.5%;
+    height: 40%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050);
+    border-radius: 5px;
+    float: left;
+    
+}
+
+
+#trippel-containertest:hover{
+    box-shadow: 0 6px 10px 0 #696969, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+
+
+#trippel-container-kasse-texttest{
+    width: auto;
     height: 85%;
+    background-color: whitesmoke;
+    border-color: black;
+    border-radius: 5px;
+    /*
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius: 5px;*/
+}
+
+
+#trippel-container-kasse-text-gaptest{
+    font-size: 0.9vw;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    line-height: 22px;
+    text-align: justify;
+    width: 92%;
+    height: 70%;
     background-color: whitesmoke;
     border-color: black;
     border-bottom-left-radius:5px;
