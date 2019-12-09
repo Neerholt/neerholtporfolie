@@ -20,6 +20,8 @@
        <main>
            <div id="top-container">
                <h1>Slideshow</h1>
+               <h1>http://localhost/neerholt/makeartikel.php</h1>
+               
            </div>
            
            <a href="contact.php">
