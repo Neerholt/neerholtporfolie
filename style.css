@@ -166,7 +166,7 @@ footer nav{
     margin-left: 10%;
     margin-bottom: -2%;
     width: 18.5%;
-    height: 40%;
+    height: 60%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background-color: #F6D155;
     /*background:-webkit-linear-gradient(100deg,#45B8AC, #EFC050);*/
@@ -184,13 +184,11 @@ footer nav{
 
 #trippel-container-kasse-texttest{
     width: auto;
-    height: 85%;
+    height: 52.3%;
     background-color: whitesmoke;
     border-color: black;
-    border-radius: 5px;
-    /*
     border-bottom-left-radius:5px;
-    border-bottom-right-radius: 5px;*/
+    border-bottom-right-radius: 5px;
 }
 
 
@@ -202,10 +200,26 @@ footer nav{
     line-height: 22px;
     text-align: justify;
     width: 92%;
-    height: 70%;
+    height: 95%;
     background-color: whitesmoke;
     border-color: black;
     border-bottom-left-radius:5px;
     border-bottom-right-radius: 5px;
 }
 /*-----------------------------------------------------------------------------------------------------*/
+
+
+/*Stylesheet for min container*/
+#top-containerkage{
+    margin-top: 6%;
+    margin-bottom: 1%;
+    width: 80%;
+    height: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: whitesmoke;
+    border-radius: 5px;
+    background-repeat:no-repeat;
+}

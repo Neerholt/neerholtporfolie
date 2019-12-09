@@ -20,6 +20,9 @@
        <main>
            <div id="top-container">
                <h1>Peter :)</h1>
+               <h1>Who made this website?</h1>
+               <h1>What is the purpose of this website?</h1>
+               <h1>What tools was used to make this website?</h1>
            </div>
           
            

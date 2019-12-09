@@ -1,3 +1,4 @@
+<?php include 'databaseconn.php';?>
 <html>
    <head>
       <link rel="stylesheet" type="text/css" href="style.css">
@@ -18,204 +19,30 @@
        </header>
        
        <main>
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-           
-            <a href="#">
-              <div id="trippel-containertest">
-               <h1>Contact</h1>
-                  <div id="trippel-container-kasse-texttest">
-                      <div id="trippel-container-kasse-text-gaptest">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
-                      </div>    
-                 </div>
-              </div>
-           </a>
-           
-           
-           
-          
-           
+              <?php
+                     $sql_tabel = "SELECT * FROM opret order by idopret desc limit 400"; 
+                     $data = mysqli_query($connect,$sql_tabel);
+                     $datacheck = mysqli_num_rows($data);
+                     
+                     if($data){
+                         while ($row = mysqli_fetch_assoc($data)){
+                             echo '<a href=\"artikel.php?id=". $row["idopret"] . "\">';
+                             echo '<div id="trippel-containertest">';
+                             echo "<h2><strong>".$row['overskrift']."</strong></h2>";
+                             echo "<img src='images/".$row['billede']."' height='40%' width='100%'>";
+                             echo '<div id="trippel-container-kasse-texttest">';
+                             echo ' <div id="trippel-container-kasse-text-gaptest">';
+                             echo $row['brodtekst'];
+                             echo '<hr>';
+                             echo $row['dato'];
+                             echo '</div> ';
+                             echo '</div> ';
+                             echo '</div> ';
+                             echo '</a>';
+                         }  
+                     }  
+                     
+                     ?>
        </main>
        
 

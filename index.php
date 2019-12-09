@@ -19,9 +19,7 @@
        
        <main>
            <div id="top-container">
-                 <p>Some text some text some text some text..</p>
-  <p>Some text some text some text some text..</p>
-  <p>Some text some text some text some text..</p>
+               <h1>Slideshow</h1>
            </div>
            
            <a href="contact.php">

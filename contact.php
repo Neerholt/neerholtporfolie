@@ -18,10 +18,9 @@
        </header>
        
        <main>
-           <div id="top-container">
-                 <p>Some text some text some text some text..</p>
-  <p>Some text some text some text some text..</p>
-  <p>Some text some text some text some text..</p>
+           <div id="top-containerkage">
+               <h1>Contact me plz :)</h1>
+               <h1>make contact form</h1>
            </div>
            
            
