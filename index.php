@@ -29,6 +29,7 @@
                <h1>Contact</h1>
                   <div id="trippel-container-kasse-text">
                       <div id="trippel-container-kasse-text-gap">
+                          <br/>
                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
                       </div>    
                  </div>
@@ -41,6 +42,7 @@
                <h1>Projects</h1>
                   <div id="trippel-container-kasse-text">
                       <div id="trippel-container-kasse-text-gap">
+                          <br/>
                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
                       </div>    
                  </div>
@@ -53,6 +55,7 @@
                <h1>YouTube</h1>
                   <div id="trippel-container-kasse-text">
                       <div id="trippel-container-kasse-text-gap">
+                          <br/>
                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
                       </div>    
                  </div>
@@ -64,6 +67,7 @@
                <h1>About</h1>
                   <div id="trippel-container-kasse-text">
                       <div id="trippel-container-kasse-text-gap">
+                          <br/>
                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ullamcorper justo. Aliquam suscipit in tellus eget ornare. Morbi sed odio vel eros aliquam mattis. Aliquam erat volutpat. Phasellus id aliquam magna. Nullam euismod libero sed tellus congue auctor. Aenean varius tellus id urna placerat, quis pharetra elit pharetra.</p>
                       </div>    
                  </div>
