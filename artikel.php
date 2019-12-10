@@ -23,7 +23,9 @@ include 'databaseconn.php';
        
        <main>
            <div id="top-containereller">
-               <center><h1><?php
+              
+               <div id="overskrift-wrapper">
+                    <h1><?php
                 
                      $sql_tabel = "select * from opret where idopret='$id'"; 
                      $data = mysqli_query($connect,$sql_tabel);
@@ -31,12 +33,14 @@ include 'databaseconn.php';
                      
                      if($data){
                          while ($row = mysqli_fetch_assoc($data)){
+                             echo "<a href='projects.php'><button class='tilbage'>Tilbage</button></a>";
                              echo $row['overskrift'];
+                             echo "<a href='projects.php'><button class='frem'>Frem</button></a>";
                          }  
                      }  
                      
-                     ?></h1><center>
-               <hr>
+                     ?></h1>
+               </div>          
                <?php
                      $sql_tabel = "SELECT * FROM opret where idopret='$id'"; 
                      $data = mysqli_query($connect,$sql_tabel);
@@ -50,28 +54,7 @@ include 'databaseconn.php';
                      }
                      
                      ?>
-               
-               <hr>
-               
-               <?php
-                     
-                     
-                     
-                     $sql_tabel = "SELECT * FROM opret where idopret='$id'"; 
-                     $data = mysqli_query($connect,$sql_tabel);
-                     $datacheck = mysqli_num_rows($data);
-                     
-                     if($data){
-                         while ($row = mysqli_fetch_assoc($data)){
-                             echo $row['artikeltext'];
-                         }  
-                     }  
-                     
-                     ?>
-               <hr>
-               
-               
-                <?php
+               <center><?php
                      
                      
                      
@@ -85,10 +68,22 @@ include 'databaseconn.php';
                          }  
                      }  
                      
+                     ?></center>
+               <hr>
+               <div id="artikel-wrapper">
+                    <?php
+                     $sql_tabel = "SELECT * FROM opret where idopret='$id'"; 
+                     $data = mysqli_query($connect,$sql_tabel);
+                     $datacheck = mysqli_num_rows($data);
+                     
+                     if($data){
+                         while ($row = mysqli_fetch_assoc($data)){
+                             echo $row['artikeltext'];
+                         }  
+                     }  
+                     
                      ?>
-               
-               
-               
+               </div>
            </div>
        </main>
        

@@ -59,7 +59,7 @@ mysqli_close($connect);
                                     <input type="text"  class="textboxsopret" name="overskrift" placeholder="Skriv en overskrift" maxlength="20"><br/><br/>
                                     <hr>
                                     <h3>Brødtekst</h3>
-                                    <center><textarea rows="3%" class="textboxsopret" name="brodtekst"cols="40%" placeholder="Skrive en brødtekst til din artikel"  maxlength="350" ></textarea></center><br/>
+                                    <center><textarea rows="3%" class="textboxsopret" name="brodtekst"cols="40%" placeholder="Skrive en brødtekst til din artikel"  maxlength="400" ></textarea></center><br/>
                                     <hr>
                                   <h3>Uploade billeder</h3>
                                   <label>Uploade et brødtekst billede:<br/></label><input type="file" name="imagess" ><br/><br/>

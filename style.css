@@ -149,7 +149,6 @@ footer nav{
     width: 92%;
     height: 70%;
     background-color: whitesmoke;
-    border-color: black;
     border-bottom-left-radius:5px;
     border-bottom-right-radius: 5px;
 }
@@ -225,7 +224,7 @@ footer nav{
 /*------------------------------------------------------------------------------------------------------*/
 
 #top-containereller{
-    margin-top: 6%;
+    margin-top: 5%;
     margin-bottom: 1%;
     width: 50%;
     height: auto;
@@ -235,4 +234,69 @@ footer nav{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background-color: whitesmoke;
     border-radius: 5px;
+}
+
+
+#artikel-wrapper{
+    margin-top: 1%;
+    font-size: 0.9vw;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    line-height: 22px;
+    text-align: justify;
+    width: 92%;
+    height: auto;
+    background-color: whitesmoke;
+    border-color: black;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+#overskrift-wrapper{
+    font-size: 0.9vw;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    text-align: center;
+    width: auto;
+    height: 5%;
+    background-color: #F6D155;
+    border-top-left-radius:5px;
+    border-top-right-radius: 5px;
+}
+
+.tilbage{
+  border: none;
+  margin-top: 1.5%;
+  float: left;
+  background-color: #d10244;
+  color: white;
+  padding: 5px 17px;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.tilbage:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.frem{
+  border: none;
+  margin-top: 1.5%;
+  float: right;
+  background-color: #d10244;
+  color: white;
+  padding: 5px 17px;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+
+.frem:hover{
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
