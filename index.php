@@ -22,6 +22,7 @@
                <h1>Slideshow</h1>
                
            </div>
+
            
            <a href="contact.php">
               <div id="trippel-container">

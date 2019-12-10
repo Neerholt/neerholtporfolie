@@ -7,7 +7,7 @@ include 'databaseconn.php';
       <link rel="stylesheet" type="text/css" href="style.css">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"><!--Google stylesheet-->
-      <title>Neerholt.it</title>
+      <title>Artikel</title>
    </head>
    <body>
        <header>

@@ -355,3 +355,30 @@ footer nav{
     border-top-left-radius:5px;
     border-top-right-radius: 5px;
 }
+
+/*-------------------------------------404 Error----------------------------------------------------------------*/
+
+#top-containererror{
+    font-size: 30px;
+    text-decoration: none;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    width: 64%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    background-color: #E8E8E8;
+    border-radius: 5px;
+}
+
+#top-containererror a{
+   background-color: yellow;
+   border-radius: 5px;
+   color: black;
+}
+
+
+#top-containererror a:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
