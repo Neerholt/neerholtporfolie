@@ -19,21 +19,7 @@
        
        <main>
            <div id="top-container">
-                <?php
-                     include 'databaseconn.php';             
-                     $sql_tabel = "SELECT * FROM opret ORDER BY rand() limit 1"; 
-                     $data = mysqli_query($connect,$sql_tabel);
-                     $datacheck = mysqli_num_rows($data);
-                     
-                     if($data){
-                         while ($row = mysqli_fetch_assoc($data)){
-                             echo '<div id="textkassebofloat">';
-                             echo "<img src='images/".$row['billede']."' height='100%' width='50%' style='border-radius: 5px;'>";
-                             echo '</div>';
-                         }  
-                     }  
-                     
-                     ?>
+               <h1>Slideshow</h1>
                
            </div>
            
