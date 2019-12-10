@@ -12,6 +12,8 @@ body{
       height: auto;
 }
 
+/*---------------------------------------------Navbar--------------------------------------------------------*/
+
 header ul{
    margin-left: 8.4%;
 }
@@ -34,16 +36,17 @@ header ul li a:hover{
 
 
 header nav{
-    background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);
     width: 100%;
     height: 6%;
     position: fixed;
     top: 0;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    background-color: whitesmoke;
+    background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);
+   /*background-color: whitesmoke;*/
 
 }
 
+/*---------------------------------------Container main page--------------------------------------------------------------*/
 
 /*Stylesheet for min container*/
 #top-container{
@@ -57,10 +60,9 @@ header nav{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background-color: whitesmoke;
     border-radius: 5px;
-    background-repeat:no-repeat;
 }
 
-
+/*---------------------------------------Footer--------------------------------------------------------------*/
 
 #footer{
     bottom: 0;
@@ -73,6 +75,7 @@ header nav{
     background-color: whitesmoke;
     position: fixed;
     background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);
+   /*background-color: whitesmoke;*/
 }
 
 footer ul{
@@ -105,6 +108,8 @@ footer nav{
     border-radius: 5px;
 }
 */
+
+/*------------------------------------------Trippel box main page-----------------------------------------------------------*/
 
 #trippel-container{
     color: black;
@@ -155,7 +160,7 @@ footer nav{
 
 
 
-/*-----------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------artikel thumbnail boxs----------------------------------------------------------*/
 #trippel-containertest{
     margin-top: 5%;
     color: black;
@@ -205,7 +210,7 @@ footer nav{
     border-bottom-left-radius:5px;
     border-bottom-right-radius: 5px;
 }
-/*-----------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------idk----------------------------------------------------*/
 
 
 /*Stylesheet for min container*/
@@ -221,7 +226,7 @@ footer nav{
     background-color: whitesmoke;
     border-radius: 5px;
 }
-/*------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------read artikel boxs---------------------------------------------------------*/
 
 #top-containereller{
     margin-top: 5%;
@@ -268,6 +273,7 @@ footer nav{
 }
 
 .tilbage{
+  margin-right: -7%;/*Slet hvis frem bliver vist*/
   border: none;
   margin-top: 1.5%;
   float: left;
@@ -277,6 +283,8 @@ footer nav{
   cursor: pointer;
   font-size: 14px;
   text-decoration: none;
+  border-top-right-radius:5px;
+  border-bottom-right-radius: 5px;
 }
 
 .tilbage:hover{
@@ -299,4 +307,51 @@ footer nav{
 
 .frem:hover{
  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*-------------------------------------About read----------------------------------------------------------------*/
+
+
+#top-containerabout{
+    margin-bottom: -3%;
+    margin-top: 5%;
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+
+#about-wrapper{
+    margin-bottom: 3%;
+    margin-top: 1%;
+    font-size: 0.9vw;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    line-height: 22px;
+    text-align: justify;
+    width: 92%;
+    height: auto;
+    background-color: whitesmoke;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+#overskrift-about{
+    font-size: 0.9vw;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    text-align: center;
+    width: auto;
+    height: 5%;
+    background-color: #F6D155;
+    border-top-left-radius:5px;
+    border-top-right-radius: 5px;
 }

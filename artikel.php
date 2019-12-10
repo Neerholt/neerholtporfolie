@@ -35,7 +35,7 @@ include 'databaseconn.php';
                          while ($row = mysqli_fetch_assoc($data)){
                              echo "<a href='projects.php'><button class='tilbage'>Tilbage</button></a>";
                              echo $row['overskrift'];
-                             echo "<a href='projects.php'><button class='frem'>Frem</button></a>";
+                             /*echo "<a href='projects.php'><button class='frem'>Frem</button></a>";*/
                          }  
                      }  
                      
