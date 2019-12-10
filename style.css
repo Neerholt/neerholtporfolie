@@ -71,12 +71,12 @@ header nav{
     border-color: black;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background-color: whitesmoke;
-    border-radius: 5px;
     position: fixed;
+    background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);
 }
 
 footer ul{
-   background:-webkit-linear-gradient(100deg, #D65076, #45B8AC, #EFC050, #9B2335);
+   margin-left: 8.4%;
 }
 
 footer ul li{

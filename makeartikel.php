@@ -59,7 +59,7 @@ mysqli_close($connect);
                                     <input type="text"  class="textboxsopret" name="overskrift" placeholder="Skriv en overskrift" maxlength="20"><br/><br/>
                                     <hr>
                                     <h3>Brødtekst</h3>
-                                    <center><textarea rows="3%" class="textboxsopret" name="brodtekst"cols="40%" placeholder="Skrive en brødtekst til din artikel"  maxlength="75" ></textarea></center><br/>
+                                    <center><textarea rows="3%" class="textboxsopret" name="brodtekst"cols="40%" placeholder="Skrive en brødtekst til din artikel"  maxlength="350" ></textarea></center><br/>
                                     <hr>
                                   <h3>Uploade billeder</h3>
                                   <label>Uploade et brødtekst billede:<br/></label><input type="file" name="imagess" ><br/><br/>
@@ -67,7 +67,7 @@ mysqli_close($connect);
                                   <hr>
                         </div><!--sluting på min side form på lavepost-->
                                     <h3>Skriv din artikel her</h4>
-                                    <center><textarea rows="22%" name="artikeltext" cols="80%" style="width:50%; height: 80%;" placeholder="Skriv din artikel her." maxlength="2200"></textarea></center>    
+                                    <center><textarea rows="22%" name="artikeltext" cols="80%" style="width:50%; height: 80%;" placeholder="Skriv din artikel her."></textarea></center>    
                                     <button class="opretknap" onclick="sendbesked" type="submit" name="GEM">Opret artikel</button>
                                 </form></center>  
                         <center><div>

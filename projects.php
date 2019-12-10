@@ -32,7 +32,8 @@
                              echo "<img src='images/".$row['billede']."' height='45%' width='100%'>";
                              echo '<div id="trippel-container-kasse-texttest">';
                              echo ' <div id="trippel-container-kasse-text-gaptest">';
-                             echo $row['brodtekst'];
+                             echo '<hr>';
+                             echo $row['brodtekst']."...";
                              echo '<hr>';
                              echo $row['dato'];
                              echo '</div> ';
