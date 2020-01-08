@@ -2,7 +2,7 @@
 /*
 $servername = "localhost";
 $username = "mvi01.skp-dp.sde";
-$password = "23q3z5y5";
+$password = "********";
 $databasename = "mvi01_skp_dp_sde_dk";
 */
 
